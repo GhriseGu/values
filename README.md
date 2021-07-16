@@ -6,7 +6,7 @@ Contributed by [Lulu Gu](https://github.com/GhriseGu).
 
 In this repo, we list some related work on Values. Corrections and suggestions are welcomed. 
 
- ![价值观](C:\Users\viki_zzm\Desktop\价值观.jpg)
+
 
 ## Contents
 
